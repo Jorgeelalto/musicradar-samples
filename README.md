@@ -1,7 +1,6 @@
-## Other sample packs
+## Non-electronic sample packs
 
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-00s-synth-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-303-style-acid-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-free-70s-synth-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-8-bit-bonanza-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-eighties-samples.zip
@@ -25,27 +24,18 @@
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-amped-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-analogue-circuit-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-analogue-dirt-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-analogue-drum-bass-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-aquatic-adventure-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-arabian-nights-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-atmospheric-samples-1.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-atmospheric-samples-2.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-battery-powered-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bboy-electro-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-balearic-bliss-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bass-boutique-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bass-guitar-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bassline-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bendy-bassline-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-berlin-beat-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-impact-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bitcrushed-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bomb-squad-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-broken-beat-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-broken-piano-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-carnival-rave-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-cartoon-caper-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-cassette-club-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-cheap-synth-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-chillout-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-chunky-guitar-drum-samples.zip
@@ -61,38 +51,17 @@
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-cyborg-beats.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dance-urban-pop-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dancehall-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dark-dub-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-deep-dub-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-digital-lover-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-digital-nature-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dutch-house-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dirty-grime-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-domestic-appliance-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-downtempo-dreams-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-drumnbass-170bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-drumnbass-175bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dnb-atmospheres.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dnb-fx-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dnb-pad-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dub-126bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dub-130bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dub-133bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dub-140bpm.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dub-designer-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-01-140bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-02-145bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-03-145bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-04-143bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-05-140bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dubstep-bonus-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dusty-funk-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dystopian-drone-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-dnb-essentials-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-electro-house-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-electronic-pop-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-emo-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-essential-synths-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-old-school-euphoria-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-experimental-lead-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-experimental-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bomb-factory-samples.zip
@@ -101,11 +70,9 @@
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-feelgood-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-female-vocal-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-filthy-hippy-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-floorfilling-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-fm-synth-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-found-sound-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-found-sound-beats-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-french-house-chillout-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-funk-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-funk-guitar-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-261-free-funky-and-freaky-fill-samples.zip
@@ -113,7 +80,6 @@
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-fx-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-sweetener-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-filter-fun-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-future-rave-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-gangster-sting-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-glitch-kit-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-outdoor-samples.zip
@@ -122,20 +88,16 @@
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-guitar-drone-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-hand-control-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-heavy-metal-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-hi-nrg-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-hiphop-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-hip-hop-essentials-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-hip-rock-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-horrorscape-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-house-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-household-rhythm-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-hybrid-beats-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-idm-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-industrial-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-industrial-metal-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-instant-fill-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-italodisco-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-jacking-house-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-club-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-keys-samples.zip
@@ -152,25 +114,17 @@
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-drums-melodies-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-microloopers-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-micro-modulars-sample-pack.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-minimal-house-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-mistabishi-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-modular-madness-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-modular-synth-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-soundtrack-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-new-age-synths-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-noise-hiss-crackle-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-nu-balearic-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-nu-disco-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-off-the-grid-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-rave-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-out-there-fx-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-paris-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-pitch-time-shifted-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-pop-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-processed-guitar-sample-pack.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-prodigy-style-115bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-prodigy-style-125bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-prodigy-style-126bpm.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-prog-rock-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-psych-rock-synths-sample-pack.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-pure-evil-samples.zip
@@ -182,7 +136,6 @@
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-free-resonance-and-feedback-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-retimed-repitched-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-retro-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-retro-house-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-retro-video-game-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-reversed-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-robot-samples.zip
@@ -199,7 +152,6 @@
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-soul-funk-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-sound-of-water-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-stab-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-stadium-house-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-sparse-soundscape-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-starting-point-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-stereo-fx-samples.zip
@@ -211,46 +163,30 @@
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-mammoth-synth-chords-sample-pack.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-synth-impacts-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-synth-orchestra-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-120bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-125bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-130bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-132bpm.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-atmos-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-drum-fx-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-timewarp-fx-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-trance-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-trance-basics-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-trance-essentials-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-transition-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-trap-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-tribal-adventures-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-tuneful-toy-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-twisted-orchestra-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-uk-garage-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-ultra-modern-bass-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-ultra-minimal-sample-pack.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-undercover-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-uplifting-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-urban-rock-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-urban-spaces-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-vince-watson-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-vintage-house-techno-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-vinyl-style-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-vocal-adlib-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-western-guitar-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-wonky-steps-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-world-music-samples.zip
-1. https://cdn.mos.musicradar.com/audio/musicradar-90s-jungle-samples.zip
 1. https://cdn.mos.musicradar.com/audio/musicradar-analogue-polysynths-samples.zip
 1. https://cdn.mos.musicradar.com/audio/musicradar-dream-pop-samples.zip
-1. https://cdn.mos.musicradar.com/audio/musicradar-drum-and-bass-essentials-samples.zip
 1. https://cdn.mos.musicradar.com/audio/musicradar-funk-keys-samples.zip
 1. https://cdn.mos.musicradar.com/audio/musicradar-funk-soul-guitar-samples.zip
 1. https://cdn.mos.musicradar.com/audio/musicradar-fuzz-psych-samples.zip
 1. https://cdn.mos.musicradar.com/audio/musicradar-glitchy-textures-samples.zip
 1. https://cdn.mos.musicradar.com/audio/musicradar-lo-fi-sampler-samples.zip
 1. https://cdn.mos.musicradar.com/audio/musicradar-midi-orchestra-samples.zip
-1. https://cdn.mos.musicradar.com/audio/musicradar-sampleradar-EBM-samples.zip
 1. https://cdn.mos.musicradar.com/audio/sampleradar-digital-bass-samples.zip
 1. https://cdn.mos.musicradar.com/audio/sampleradar-instant-hooks-samples.zip
 1. https://cdn.mos.musicradar.com/audio/sampleradar-rhythmic-noise-samples.zip
@@ -263,12 +199,9 @@
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-glitch-vocals-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-moog-synth-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-nasty-leads-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-nu-garage-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-rave-synths-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-sine-sub-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-sub-bass-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/musicradar-ultimate-arps-samples.zip
-1. https://cdn.mos.musicradar.com/audio/samples/musicradar-warehouse-techno-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-artificial-metal-samples.zip
 1. https://cdn.mos.musicradar.com/audio/sampleradar-casio-sk-1-samples.zip
 1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-digital-vs-analogue-samples.zip
@@ -278,6 +211,78 @@
 1. https://cdn.mos.musicradar.com/musicradar-handheld-noisemaker-samples.zip
 1. https://cdn.mos.musicradar.com/musicradar-organic-drone-samples.zip
 1. https://cdn.mos.musicradar.com/musicradar-yacht-rock-samples.zip
+
+
+## Electronic sample packs
+
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-303-style-acid-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-analogue-drum-bass-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bboy-electro-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-balearic-bliss-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bassline-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-bendy-bassline-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-berlin-beat-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-broken-beat-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-carnival-rave-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-cassette-club-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dark-dub-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-deep-dub-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dutch-house-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-drumnbass-170bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-drumnbass-175bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dnb-atmospheres.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dnb-fx-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dnb-pad-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dub-126bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dub-130bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dub-133bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dub-140bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-01-140bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-02-145bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-03-145bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-04-143bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/Dubstep-kit-05-140bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-dubstep-bonus-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-dnb-essentials-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-electro-house-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-old-school-euphoria-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-floorfilling-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-french-house-chillout-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-future-rave-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-hi-nrg-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-house-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-idm-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-jacking-house-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-minimal-house-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-mistabishi-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-nu-balearic-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-rave-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-paris-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-prodigy-style-115bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-prodigy-style-125bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-prodigy-style-126bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-retro-house-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-stadium-house-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-120bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-125bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-130bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-132bpm.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-atmos-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-techno-drum-fx-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-trance-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-trance-basics-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-trance-essentials-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-uk-garage-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-vince-watson-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/sampleradar-vintage-house-techno-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-wonky-steps-samples.zip
+1. https://cdn.mos.musicradar.com/audio/musicradar-90s-jungle-samples.zip
+1. https://cdn.mos.musicradar.com/audio/musicradar-drum-and-bass-essentials-samples.zip
+1. https://cdn.mos.musicradar.com/audio/musicradar-sampleradar-EBM-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-nu-garage-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-rave-synths-samples.zip
+1. https://cdn.mos.musicradar.com/audio/samples/musicradar-warehouse-techno-samples.zip
+
 
 ## Drum-only sample packs
 
@@ -317,6 +322,7 @@
 1. https://cdn.mos.musicradar.com/audio/musicradar-hardware-drum-machine-samples.zip
 1. https://cdn.mos.musicradar.com/musicradar-modular-percussion-samples.zip
 1. https://cdn.mos.musicradar.com/musicradar-wooden-percussion-samples.zip
+
 ## How to update this list
 
 Use these public MusicRadar sources:
@@ -330,8 +336,8 @@ To find and add new downloads:
 1. Read the A–Z article and samples category, noting article links that are not already represented in this file. The A–Z article can lag behind, so use the category and sitemap to find newer articles too.
 2. For a complete recent-article check, inspect the monthly sitemaps linked from the sitemap index for the period since the last update. Find entries whose URLs are under `/music-tech/samples/` and compare them with the current list. The category page may show a registration prompt instead of its full article listing; do not try to bypass it. Use the public sitemap and publicly accessible article pages instead.
 3. Open each candidate article and copy its actual download link or links whose host is `cdn.mos.musicradar.com`. Add only sample-pack downloads, not image or unrelated links. Some articles offer multiple ZIP files; include each one.
-4. Compare the complete CDN URL against the entries in both sections. Skip URLs already present, and never guess a filename from an article title. Preserve the path and filename used by MusicRadar.
-5. Put a pack under **Drum-only sample packs** only when the pack is specifically drums or percussion. Put mixed or other packs under **Other sample packs** even if their names mention drums or beats.
-6. Keep the sections in their current order as numbered Markdown lists, with no duplicates. Verify at the end that every entry is a CDN ZIP URL and that no URL appears in both sections.
+4. Compare the complete CDN URL against the entries in all sample-pack sections. Skip URLs already present, and never guess a filename from an article title. Preserve the path and filename used by MusicRadar.
+5. Put a pack under **Drum-only sample packs** only when it is specifically drums or percussion. Otherwise, classify it as **Electronic sample packs** when its genre or use is club-oriented (such as techno, house, drum and bass, or trance), or **Non-electronic sample packs** for other styles. Do not classify a pack as electronic solely because it uses synths; synthpop, rock, pop, punk, and disco belong in the non-electronic group unless the pack is specifically a club-music style.
+6. Keep the sections in this order: **Electronic sample packs**, **Non-electronic sample packs**, then **Drum-only sample packs**. Format each as a numbered Markdown list and avoid duplicates. Verify at the end that every entry is a CDN ZIP URL and that no URL appears in more than one section.
 
 If an article's download link is not publicly visible, leave it out and report the access limitation rather than trying to defeat a registration screen.
